@@ -38,7 +38,9 @@ Compare los resultados obtenidos en Java con los generados en MARIE.
 ## Requisitos:
 
 MARIE: Un entorno para ensamblar y ejecutar código MARIE.
+
 Java: Un entorno JDK (Java Development Kit) para compilar y ejecutar el archivo Java.
+
 Python: Un intérprete de Python con soporte para Jupyter Notebook instalado.
 
 
