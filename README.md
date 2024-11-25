@@ -24,10 +24,12 @@ Generar las matrices X y Y:
 Abra el archivo generadorMatriz.ipynb en Jupyter Notebook o cualquier entorno compatible.
 Ejecute el código para generar las matrices X y Y.
 Copie los valores generados y péguelos en las variables correspondientes del código en MARIE y Java.
+
 Ejecutar el programa en MARIE:
 
 Cargue el archivo convolucionMARIE.asm en el ensamblador de MARIE.
 Ejecute el programa y anote los resultados de la convolución.
+
 Verificar los resultados en Java:
 
 Compile y ejecute ConvolucionComprobacion.java.
