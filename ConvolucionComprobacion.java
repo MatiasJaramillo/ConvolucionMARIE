@@ -1,4 +1,4 @@
-class Convolucion2 {
+class ConvolucionComprobacion {
 
     public static void main(String[] args) {
         int[][] matrizK = {
