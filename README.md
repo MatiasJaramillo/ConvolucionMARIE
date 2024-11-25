@@ -28,7 +28,7 @@ Copie los valores generados y péguelos en las variables correspondientes del c�
 Ejecutar el programa en MARIE:
 
 Cargue el archivo convolucionMARIE.asm en el ensamblador de MARIE.
-Ejecute el programa y anote los resultados de la convolución. Tomar en cuenta que el programa de demora alrededor de 3 minutos o más en completar dependiendo del tamaño de las matrices.
+Ejecute el programa y anote los resultados de la convolución. Tomar en cuenta que el programa se demora alrededor de 3 minutos o más en completar dependiendo del tamaño de las matrices.
 
 Verificar los resultados en Java:
 
