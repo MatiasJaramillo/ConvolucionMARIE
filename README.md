@@ -9,11 +9,10 @@ Este archivo contiene el código fuente en ensamblador para la máquina MARIE qu
 
 2. ConvolucionComprobacion.java
 Este archivo es un programa en Java diseñado para validar los resultados obtenidos en MARIE. Implementa la misma operación de convolución que el código de MARIE pero con una ejecución más rápida y moderna.
-
 Permite a los usuarios comparar los resultados entre MARIE y una implementación funcional en Java para asegurarse de que el programa en ensamblador funciona correctamente.
+
 3. generadorMatriz.ipynb
 Este archivo es un cuaderno de Python Jupyter Notebook que ayuda a generar las matrices X y Y necesarias para el cálculo de la convolución.
-
 Genera matrices con dimensiones y valores personalizados ingresados por el usuario.
 Los resultados pueden copiarse fácilmente y pegarse en el código de MARIE o en el programa en Java para realizar pruebas consistentes.
 
